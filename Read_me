@@ -1,0 +1,50 @@
+# ☕ Coffee Shop Sales Analysis – Power BI Dashboard
+
+## 📌 Project Overview
+This project analyzes sales data from a coffee shop and presents insights using an **interactive Power BI dashboard**.  
+The goal is to identify key sales trends, understand customer behavior, and provide actionable insights to improve business performance.
+
+---
+
+## 🎯 Objectives
+- Analyze **daily, weekly, and monthly sales trends**  
+- Identify **top-selling products and categories**  
+- Track **sales by location, product type, and time of day**  
+- Provide **KPIs** (Revenue, Transactions, Avg. Bill Size) for quick decision-making  
+- Create interactive dashboards with **filters and slicers** for deep exploration  
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI** – Data visualization & dashboard building  
+- **Excel/CSV** – Data source for raw sales data  
+- **DAX (Data Analysis Expressions)** – For custom KPIs and calculations  
+- **Data Cleaning & Transformation** – Performed using Power Query  
+
+---
+
+## 📊 Dashboard Features
+- **KPIs Overview**: Total Revenue, No. of Transactions, Avg. Sales per Transaction  
+- **Sales Trends**: Line charts showing sales over time  
+- **Top Products**: Best-selling coffee types & categories  
+- **Location Analysis**: Revenue distribution across different stores  
+- **Customer Insights**: Time-based purchase behavior (morning vs. evening sales)  
+- **Filters & Slicers**: Interactive controls for product type, date range, and store location  
+
+---
+
+## 🖼️ Dashboard Preview
+> (Add a screenshot of your Power BI dashboard here for better presentation)  
+Example:  
+![Coffee Shop Dashboard](images/coffee_sales_dashboard.png)
+
+---
+
+## 🚀 Key Insights
+- Peak sales occur during **morning hours (8 AM – 11 AM)**  
+- **Espresso and Cappuccino** are the top-selling products  
+- Store located in **Downtown** generates the highest revenue  
+- Seasonal spikes in sales during **holidays and weekends**  
+
+---
+
